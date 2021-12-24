@@ -10,6 +10,7 @@ function Navbar(){
                 <li>Projects</li>
                 <li>Contact</li>
             </ul>
+            <i className="fas fa-bars" />
         </nav>
     )
 }
