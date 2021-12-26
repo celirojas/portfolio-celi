@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: center;
   width: 70%;
+  max-width: 850px;
   margin: 0 auto;
   margin-top: 8rem;
   gap: 5%;
@@ -11,7 +12,7 @@
 .intro-text {
   display: flex;
   flex-direction: column;
-
+  color: var(--dark-color);
   flex: 1 0 60%;
 }
 

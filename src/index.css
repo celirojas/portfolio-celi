@@ -6,3 +6,9 @@
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
 }
+
+:root {
+  --accent-color: #ff6464;
+  --secondary-color: #edf7fa;
+  --dark-color: #21243d;
+}

@@ -1,7 +1,6 @@
 footer {
-  padding-top: 5rem;
   width: 90%;
-  margin: 0 auto;
+  margin: 3rem auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -16,5 +15,6 @@ footer ul {
 }
 
 footer ul i {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  color: var(--dark-color);
 }

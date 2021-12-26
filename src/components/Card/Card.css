@@ -1,0 +1,64 @@
+.card {
+  display: flex;
+  gap: 2%;
+  border-bottom: 1px solid rgb(190, 190, 190);
+  padding-bottom: 1.5rem;
+  margin-bottom: 4rem;
+}
+
+.card-text {
+  flex: 1 0 70%;
+  color: var(--dark-color);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.card-text .title {
+  font-size: 1.8rem;
+}
+.card-text .year {
+  background-color: var(--dark-color);
+  padding: 0.1rem 1.2rem;
+  border-radius: 1rem;
+  color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.card-text .link {
+  text-decoration: none;
+  color: grey;
+  margin-left: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.card-text .description {
+  font-size: 1rem;
+}
+
+.card-img {
+  flex: 1 0 25%;
+}
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.4rem;
+}
+
+/*Media queries*/
+
+@media (max-width: 768px) {
+  .card-img {
+    flex: 1 0 43%;
+  }
+  .card-text {
+    flex: 1 0 55%;
+  }
+}
+
+@media (max-width: 600px) {
+  .card {
+    flex-direction: column;
+  }
+}
