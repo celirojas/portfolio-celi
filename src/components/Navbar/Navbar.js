@@ -11,7 +11,7 @@ function Navbar(){
 
     const handleScroll = (className) => {
         const element = document.querySelector(className);
-        element.scrollIntoView();
+        element.scrollIntoView({behavior: "smooth"});
         
     }
 
