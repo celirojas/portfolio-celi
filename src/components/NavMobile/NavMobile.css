@@ -1,0 +1,23 @@
+.nav-mobile {
+  background-color: var(--secondary-color);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.nav-mobile .mobile-links {
+  list-style: none;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.nav-mobile ul.mobile-links li {
+  margin: 1.5rem;
+  font-size: 1.2rem;
+}
+
+@media (min-width: 500px) {
+  .mobile-links {
+    display: none;
+  }
+}

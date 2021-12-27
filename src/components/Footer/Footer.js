@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer(){
     return (
-        <footer>
+        <footer className='contact'>
             <ul>
                 <li><i className="fab fa-linkedin" /></li>
                 <li><i className="fab fa-github" /></li>

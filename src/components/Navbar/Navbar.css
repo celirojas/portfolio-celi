@@ -5,7 +5,7 @@ nav {
   right: 5%;
 }
 
-nav ul {
+nav ul.desktop-links {
   display: flex;
   gap: 3rem;
   list-style: none;
@@ -20,7 +20,7 @@ nav ul {
 }
 
 @media (max-width: 500px) {
-  nav ul {
+  nav ul.desktop-links {
     display: none;
   }
   .fas.fa-bars {
@@ -30,5 +30,7 @@ nav ul {
     top: 1.5rem;
     font-size: 1.4rem;
     color: #21243d;
+    z-index: 3;
+    position: fixed;
   }
 }
