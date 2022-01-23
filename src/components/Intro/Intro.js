@@ -12,7 +12,7 @@ function Intro(){
                 <a href="#" target="_blank">Download Resume</a>
             </div>
             <div className="intro-img">
-                <img src="celinaRojas.jpg" alt="profile" />
+                <img src="celiRojas.jpg" alt="profile" />
             </div>
 
         </div>
