@@ -23,7 +23,15 @@
   display: flex;
   justify-content: center;
   gap: 3rem;
-  font-size: 3.5rem;
+  font-size: 4rem;
   flex-wrap: wrap;
   color: var(--dark-color);
+}
+
+.skills-icons .fab:hover {
+  color: var(--accent-color);
+}
+
+.skills-icons .fab {
+  transition: all 0.3s;
 }

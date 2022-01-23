@@ -8,14 +8,14 @@ function Skills(){
             <div className= "skills-text">
             <h2>Skills</h2>
             <div className="skills-icons">
-                <i class="fab fa-html5"></i>
-                <i class="fab fa-css3-alt"></i>
-                <i class="fab fa-sass"></i>
-                <i class="fab fa-js"></i>
-                <i class="fab fa-java"></i>
-                <i class="fab fa-git-alt"></i>
-                <i class="fab fa-bootstrap"></i>
-                <i class="fas fa-database"></i>
+                <i className="fab fa-html5"></i>
+                <i className="fab fa-css3-alt"></i>
+                <i className="fab fa-sass"></i>
+                <i className="fab fa-js"></i>
+                <i className="fab fa-java"></i>
+                <i className="fab fa-git-alt"></i>
+                <i className="fab fa-bootstrap"></i>
+                <i className="fas fab fa-database"></i>
             </div>
             </div>          
 

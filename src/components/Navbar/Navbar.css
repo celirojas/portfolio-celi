@@ -15,6 +15,15 @@ nav ul.desktop-links {
   font-weight: bold;
 }
 
+nav ul.desktop-links li:hover {
+  color: var(--accent-color);
+}
+
+nav ul.desktop-links li {
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
 .fas.fa-bars {
   display: none;
 }
