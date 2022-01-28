@@ -15,13 +15,6 @@ function Projects(){
                 link="https://celirojas.github.io/proyectoCoder/htmls/index"
             />
             <Card
-                title="Museum of Candy"
-                year="2020"
-                description="I built this project as part of a Udemy course. It is built using Bootstrap." 
-                image="mc1.png"
-                link=""
-             />
-            <Card
                 title="Pokedex"
                 year="2021"
                 description="I built this project as part of a Udemy course. It is built using React." 
