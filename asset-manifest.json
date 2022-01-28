@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-celi/static/css/main.357aeaa2.css",
+    "main.js": "/portfolio-celi/static/js/main.4e64541b.js",
+    "index.html": "/portfolio-celi/index.html",
+    "main.357aeaa2.css.map": "/portfolio-celi/static/css/main.357aeaa2.css.map",
+    "main.4e64541b.js.map": "/portfolio-celi/static/js/main.4e64541b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.357aeaa2.css",
+    "static/js/main.4e64541b.js"
+  ]
+}
