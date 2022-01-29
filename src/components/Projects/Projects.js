@@ -21,6 +21,13 @@ function Projects(){
                 image="pokedex.png"
                 link="https://rpqfw.csb.app/"
              />
+            <Card
+                title="ScoreKeeper"
+                year="2021"
+                description="I built this project as part of a Udemy course. It is built using JavaScript." 
+                image="scoreKeeper.png"
+                link="https://celirojas.github.io/scoreKeeper/index"
+             />
         </div>
     )
 }

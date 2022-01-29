@@ -12,7 +12,7 @@ function Card(props){
                 <h3 className='title'>{title}</h3>
                 <div className='info'>
                     <span className='year'>{year}</span>
-                    <a href={link} target="_blank" className='link'>View project</a>
+                    <a href={link} target="_blank" className='link' rel='noreferrer'>View project</a>
                 </div>
                 <p className='description'>{description}</p>
             </div>
