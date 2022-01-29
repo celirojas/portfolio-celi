@@ -10,7 +10,7 @@ function Projects(){
             <Card
                 title="Florida Cupcakes"
                 year="2020"
-                description="I developed this project to practice my markup ans styling habilities with HTML and CSS. It’s a mock up for a landing page for a cupcake store." 
+                description="I developed this project to practice my markup and styling skills with HTML and CSS. It’s a mock up for a landing page for a cupcake store." 
                 image="fc1.png"
                 link="https://celirojas.github.io/proyectoCoder/htmls/index"
             />
