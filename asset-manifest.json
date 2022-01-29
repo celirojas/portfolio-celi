@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-celi/static/css/main.357aeaa2.css",
-    "main.js": "/portfolio-celi/static/js/main.4e64541b.js",
+    "main.js": "/portfolio-celi/static/js/main.ef9b807d.js",
     "index.html": "/portfolio-celi/index.html",
     "main.357aeaa2.css.map": "/portfolio-celi/static/css/main.357aeaa2.css.map",
-    "main.4e64541b.js.map": "/portfolio-celi/static/js/main.4e64541b.js.map"
+    "main.ef9b807d.js.map": "/portfolio-celi/static/js/main.ef9b807d.js.map"
   },
   "entrypoints": [
     "static/css/main.357aeaa2.css",
-    "static/js/main.4e64541b.js"
+    "static/js/main.ef9b807d.js"
   ]
 }
